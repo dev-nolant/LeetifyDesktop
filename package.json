@@ -1,0 +1,16 @@
+{
+  "name": "leetify-app",
+  "version": "0.0.1",
+  "description": "A gui application for Leetify to run locally",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^29.1.6",
+    "electron-winstaller": "^5.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "dev-nolant",
+  "license": "ISC"
+}
