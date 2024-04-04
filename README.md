@@ -15,9 +15,9 @@ This project is **not officially affiliated with Leetify**. It has been develope
 
 ## Installation 📦
 
-You can get started with the Unofficial Leetify Desktop app by downloading the latest `setup.exe` from our [Releases](https://github.com/YourGitHubUsername/leetify-desktop-unofficial/releases) page.
+You can get started with the Unofficial Leetify Desktop app by downloading the latest `setup.exe` from our [Releases](https://github.com/dev-nolant/LeetifyDesktop/releases) page.
 
-1. Navigate to [Releases](https://github.com/YourGitHubUsername/leetify-desktop-unofficial/releases).
+1. Navigate to [Releases](https://github.com/dev-nolant/LeetifyDesktop/releases).
 2. Download the latest `setup.exe` file.
 3. Run the installer and follow the on-screen instructions.
 
